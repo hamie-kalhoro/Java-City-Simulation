@@ -50,18 +50,15 @@ Creating buildings
 Generating roads
 Managing simulation rules
 
-###🤝 Contributing
+###🤝 Contributing<br>
 Contributions are welcome!
-If you have suggestions or improvements, feel free to:
+If you have suggestions or improvements, feel free to:<br>
+Fork this repository<br>
+Make your changes<br>
+Submit a pull request ✅<br>
 
-Fork this repository
-
-Make your changes
-
-Submit a pull request ✅
-
-###📄 License
+**📄 License**
 This project is open-source and free to use.
 
-🔗 Repository
+**🔗 Repository**<br>
 🔗 Java City Simulation GitHub Repo
