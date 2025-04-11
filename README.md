@@ -32,13 +32,12 @@ There is **no graphical interface** involved.
 
 ### ⚙️ Installation & Run
 
-```bash
 git clone https://github.com/hamie-kalhoro/Java-City-Simulation.git
 cd Java-City-Simulation
 javac Main.java
 java Main
 
-<b>###📂 Project Structure</b>
+**##📂 Project Structure**</b>
 
 ├── City.java<br>
 ├── Building.java<br>
