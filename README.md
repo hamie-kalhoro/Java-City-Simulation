@@ -37,7 +37,7 @@ cd Java-City-Simulation
 javac Main.java
 java Main
 
-**##📂 Project Structure**</b>
+**📂 Project Structure**</b>
 
 ├── City.java<br>
 ├── Building.java<br>
@@ -50,7 +50,7 @@ Creating buildings
 Generating roads
 Managing simulation rules
 
-###🤝 Contributing<br>
+**🤝 Contributing**<br>
 Contributions are welcome!
 If you have suggestions or improvements, feel free to:<br>
 Fork this repository<br>
